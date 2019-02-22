@@ -3,6 +3,7 @@ public with sharing class AccountController {
         
     }
 
+    @AuraEnabled
     public static List<Account> findAll(){
         return [SELECT Name, Location__Latitude__s, Location__Longitude__s 
         FROM Account Where Location__Latitude__s != NULL 
