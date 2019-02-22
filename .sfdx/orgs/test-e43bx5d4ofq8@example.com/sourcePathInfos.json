@@ -322,14 +322,14 @@
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 186,
             "modifiedTime": 1550855361153,
             "changeTime": 1550855361153,
-            "contentHash": "9ced33bda98075647c780a506a3312d812f26303"
+            "contentHash": "9ced33bda98075647c780a506a3312d812f26303",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -558,10 +558,10 @@
         {
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
-            "size": 354,
-            "modifiedTime": 1550854463978,
-            "changeTime": 1550854463978,
-            "contentHash": "9e7fa8f789442c1b96491cc88d2b80bb37c6105c",
+            "size": 338,
+            "modifiedTime": 1550855577955,
+            "changeTime": 1550855577955,
+            "contentHash": "5f850e7f50fd1b0e3ea31f5dee739db02f882336",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -621,14 +621,14 @@
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "size": 256,
-            "modifiedTime": 1550854268630,
-            "changeTime": 1550854268630,
-            "contentHash": "b18d3b83581bd7ccb398c2c5ed62d1cabb3edfed",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 263,
+            "modifiedTime": 1550856342803,
+            "changeTime": 1550856342803,
+            "contentHash": "78ae9ace409c2f1c0d24e5c34ece0d42a42f8322"
         }
     ],
     [
@@ -675,10 +675,10 @@
         {
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
             "isDirectory": false,
-            "size": 163,
-            "modifiedTime": 1550854604889,
-            "changeTime": 1550854604889,
-            "contentHash": "51595d7879dd05934034a0f4de991cf7a824bd5b",
+            "size": 127,
+            "modifiedTime": 1550855666105,
+            "changeTime": 1550855666105,
+            "contentHash": "613a7475626c4aaf893120a86774faaf986fb77c",
             "isMetadataFile": false,
             "state": "u"
         }
