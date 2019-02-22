@@ -32,14 +32,14 @@
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550852214097,
             "changeTime": 1550852214097,
-            "contentHash": "2d1cb845fdad054c8ee1c9d9f9ffd0f22a4d05e6"
+            "contentHash": "2d1cb845fdad054c8ee1c9d9f9ffd0f22a4d05e6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -48,9 +48,9 @@
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1550850838524,
-            "changeTime": 1550850838524,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "modifiedTime": 1550854551496,
+            "changeTime": 1550854551496,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -322,14 +322,14 @@
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 168,
-            "modifiedTime": 1550850911122,
-            "changeTime": 1550850911122,
-            "contentHash": "afa527c03d3c66fd0846be4d770566fe772f56e0",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 186,
+            "modifiedTime": 1550855361153,
+            "changeTime": 1550855361153,
+            "contentHash": "9ced33bda98075647c780a506a3312d812f26303"
         }
     ],
     [
@@ -426,92 +426,352 @@
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1550852214094,
             "changeTime": 1550852214094,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4957,
             "modifiedTime": 1550852214099,
             "changeTime": 1550852214099,
-            "contentHash": "b645af283a22f94dc1367bc45d684c83552a7428"
+            "contentHash": "b645af283a22f94dc1367bc45d684c83552a7428",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4961,
             "modifiedTime": 1550852214102,
             "changeTime": 1550852214102,
-            "contentHash": "245c6941f55743f69459a0f17a5bbd72e22dfd16"
+            "contentHash": "245c6941f55743f69459a0f17a5bbd72e22dfd16",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 19087,
             "modifiedTime": 1550852214112,
             "changeTime": 1550852214112,
-            "contentHash": "103528f22fd47f920db75db95482e2eda043e77e"
+            "contentHash": "103528f22fd47f920db75db95482e2eda043e77e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5297,
             "modifiedTime": 1550852214116,
             "changeTime": 1550852214116,
-            "contentHash": "23d702c82d4aebdc46b0e36651f0168840ebbc74"
+            "contentHash": "23d702c82d4aebdc46b0e36651f0168840ebbc74",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550852214094,
             "changeTime": 1550852214094,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550852214115,
             "changeTime": 1550852214115,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550853023092,
+            "changeTime": 1550853023092,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1550854551508,
+            "changeTime": 1550854551508,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1550853023091,
+            "changeTime": 1550853023091,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "size": 354,
+            "modifiedTime": 1550854463978,
+            "changeTime": 1550854463978,
+            "contentHash": "9e7fa8f789442c1b96491cc88d2b80bb37c6105c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1550853023083,
+            "changeTime": 1550853023083,
+            "contentHash": "4f2b577ab9601eb150f6621671f3696ad60eccb1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "size": 111,
+            "modifiedTime": 1550854303899,
+            "changeTime": 1550854303899,
+            "contentHash": "4abc64678a11a466d1ad89017972ef6f43442616",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1550853023092,
+            "changeTime": 1550853023092,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1550853023090,
+            "changeTime": 1550853023090,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "size": 256,
+            "modifiedTime": 1550854268630,
+            "changeTime": 1550854268630,
+            "contentHash": "b18d3b83581bd7ccb398c2c5ed62d1cabb3edfed",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1550853023087,
+            "changeTime": 1550853023087,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1550853023089,
+            "changeTime": 1550853023089,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1550854551507,
+            "changeTime": 1550854551507,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 163,
+            "modifiedTime": 1550854604889,
+            "changeTime": 1550854604889,
+            "contentHash": "51595d7879dd05934034a0f4de991cf7a824bd5b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1550854551498,
+            "changeTime": 1550854551498,
+            "contentHash": "8b5ab5fcd0668e218a721bf09d43db5e8d9aba66",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "size": 170,
+            "modifiedTime": 1550854676814,
+            "changeTime": 1550854676814,
+            "contentHash": "7b7fc2efe959b56cc998a76546aaae2c81dcb40e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1550854551508,
+            "changeTime": 1550854551508,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1550854551506,
+            "changeTime": 1550854551506,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1550854551502,
+            "changeTime": 1550854551502,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1550854551503,
+            "changeTime": 1550854551503,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1550854551505,
+            "changeTime": 1550854551505,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
