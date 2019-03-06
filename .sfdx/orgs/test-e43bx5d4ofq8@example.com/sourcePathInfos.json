@@ -32,28 +32,28 @@
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550856731017,
             "changeTime": 1550856731017,
-            "contentHash": "63b71ce000e27a3eb7ec98195deba4631a8fe871"
+            "contentHash": "63b71ce000e27a3eb7ec98195deba4631a8fe871",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1550854551496,
-            "changeTime": 1550854551496,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 0,
+            "modifiedTime": 1550856973703,
+            "changeTime": 1550856973703,
+            "isWorkspace": false,
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -179,14 +179,14 @@
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\settings",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\settings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550856731101,
             "changeTime": 1550856731101,
-            "contentHash": "6c46deeb759441b8d631282891402b5569e3eefb"
+            "contentHash": "6c46deeb759441b8d631282891402b5569e3eefb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -322,14 +322,14 @@
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 186,
-            "modifiedTime": 1550855361153,
-            "changeTime": 1550855361153,
-            "contentHash": "9ced33bda98075647c780a506a3312d812f26303",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 204,
+            "modifiedTime": 1550859188718,
+            "changeTime": 1550859188718,
+            "contentHash": "3662519c8e6967c9adaf2305dd3d7b4ec0445ebf"
         }
     ],
     [
@@ -777,222 +777,352 @@
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1550856731019,
             "changeTime": 1550856731019,
-            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb"
+            "contentHash": "fe95029d9d0695d7ebbb9f1ee9a2a5448a6e8fbb",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1259,
             "modifiedTime": 1550856731074,
             "changeTime": 1550856731074,
-            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee"
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 696,
             "modifiedTime": 1550856731075,
             "changeTime": 1550856731075,
-            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06"
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2464,
             "modifiedTime": 1550856731076,
             "changeTime": 1550856731076,
-            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5"
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1466,
             "modifiedTime": 1550856731078,
             "changeTime": 1550856731078,
-            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da"
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1550856731078,
             "changeTime": 1550856731078,
-            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc"
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 401270,
             "modifiedTime": 1550856731079,
             "changeTime": 1550856731079,
-            "contentHash": "7c3cc20cc1e967cffd6a7e4a51ea27693625dfc6"
+            "contentHash": "7c3cc20cc1e967cffd6a7e4a51ea27693625dfc6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 764787,
             "modifiedTime": 1550856731080,
             "changeTime": 1550856731080,
-            "contentHash": "c7c7ab6e552fd95a0ad161d0ba0d7051856b269a"
+            "contentHash": "c7c7ab6e552fd95a0ad161d0ba0d7051856b269a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 402995,
             "modifiedTime": 1550856731082,
             "changeTime": 1550856731082,
-            "contentHash": "3538f0465359f2791f44f328f873423c5ce7f20f"
+            "contentHash": "3538f0465359f2791f44f328f873423c5ce7f20f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 764879,
             "modifiedTime": 1550856731083,
             "changeTime": 1550856731083,
-            "contentHash": "fc374d820013bd0bde31474e2418dc32dfb128bf"
+            "contentHash": "fc374d820013bd0bde31474e2418dc32dfb128bf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 14106,
             "modifiedTime": 1550856731085,
             "changeTime": 1550856731085,
-            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829"
+            "contentHash": "047c2b6bab441e6fe6d3ea804fdb82524b312829",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 141125,
             "modifiedTime": 1550856731086,
             "changeTime": 1550856731086,
-            "contentHash": "507fe8750c2915538408f9f6617e65be8bdcf842"
+            "contentHash": "507fe8750c2915538408f9f6617e65be8bdcf842",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 192417,
             "modifiedTime": 1550856731087,
             "changeTime": 1550856731087,
-            "contentHash": "58e0281121ee7548889e517aeaa62784880aa59a"
+            "contentHash": "58e0281121ee7548889e517aeaa62784880aa59a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2632,
             "modifiedTime": 1550856731101,
             "changeTime": 1550856731101,
-            "contentHash": "a0cadba26057efa4350b58d02a7bcf1d669f020a"
+            "contentHash": "a0cadba26057efa4350b58d02a7bcf1d669f020a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550856731072,
             "changeTime": 1550856731072,
-            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49"
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet\\images",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550856731078,
             "changeTime": 1550856731078,
-            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659"
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\staticresources\\leaflet",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1550856731086,
             "changeTime": 1550856731086,
-            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a"
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550856973711,
+            "changeTime": 1550856973711,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550856973711,
+            "changeTime": 1550856973711,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 259,
+            "modifiedTime": 1550857114126,
+            "changeTime": 1550857114126,
+            "contentHash": "f67f051da98aa1050b655c63d375a9d69d9287ec"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1550856973705,
+            "changeTime": 1550856973705,
+            "contentHash": "fdac90e0dac3caab30457b5a957f4cac9c801490"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550857331616,
+            "changeTime": 1550857331616,
+            "contentHash": "ebb934ce6fc2c1d3ebcc4e777e6cfe54d5d838ab"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550856973711,
+            "changeTime": 1550856973711,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550856973710,
+            "changeTime": 1550856973710,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 420,
+            "modifiedTime": 1550857317322,
+            "changeTime": 1550857317322,
+            "contentHash": "8a80273c65019a365c0d4316a0632fd9f313a265"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550856973707,
+            "changeTime": 1550856973707,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mturner\\Desktop\\MTTUERNESDFSD\\SF\\SF-Project1\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550856973709,
+            "changeTime": 1550856973709,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]

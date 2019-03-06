@@ -9,5 +9,7 @@
         "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
     },
     "salesforcedx-vscode-apex.java.home": "C:\\Program Files\\Java\\jre1.8.0_201",
-    "eslint.nodePath": "c:\\Users\\mturner\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-45.2.0\\node_modules"
+    "eslint.nodePath": "c:\\Users\\mturner\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-45.3.0\\node_modules",
+    "html.suggest.angular1": false,
+    "html.suggest.ionic": false
 }
